@@ -1,2 +1,1 @@
-# OxMACRO.github.io
-https://oxmacro.github.io/
+This page has no use.
